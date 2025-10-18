@@ -23,7 +23,7 @@ Text-Summarizer/
 └── .gitignore                  # Ignored files and folders
 
 🖼️Screenshots
-<img width="960" height="1020" alt="Screenshot 2025-10-11 205143" src="https://github.com/user-attachments/assets/412ed703-9d14-4b35-ae79-6835ae4cfc1c" />
-<img width="960" height="724" alt="summ" src="https://github.com/user-attachments/assets/93a2a68e-b399-4410-b383-a4ede56d15f4" />
+<img width="900" height="1000" alt="Screenshot 2025-10-11 205143" src="https://github.com/user-attachments/assets/412ed703-9d14-4b35-ae79-6835ae4cfc1c" />
+<img width="900" height="700" alt="summ" src="https://github.com/user-attachments/assets/93a2a68e-b399-4410-b383-a4ede56d15f4" />
 
 
