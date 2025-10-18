@@ -1,34 +1,34 @@
 🧠 AI Text Summarizer
 
-           A smart text summarization tool that condenses lengthy articles, research papers, or documents into brief, coherent summaries. By leveraging Natural Language Processing (NLP) techniques, it identifies and extracts the most important information from a text, helping users save time and focus on key points.
+A smart text summarization tool that condenses lengthy articles, research papers, or documents into brief, coherent summaries. By leveraging Natural Language Processing (NLP) techniques, it identifies and extracts the most important information from a text, helping users save time and focus on key points.
 
 🚀 Features
 
-         1.Summarizes long text into concise sentences
+ 1.Summarizes long text into concise sentences
 
-         2.Extractive summarization using NLTK
+ 2.Extractive summarization using NLTK
 
-         3.Removes stopwords and punctuation for cleaner processing
+3.Removes stopwords and punctuation for cleaner processing
 
-         4.Simple Streamlit interface for interactive use
+4.Simple Streamlit interface for interactive use
 
 
 
 🧩 Project Structure
 
-          Text-Summarizer/
+Text-Summarizer/
           
-                ├── app.py                      # Streamlit app for user interface
+├── app.py                      # Streamlit app for user interface
 
-                ├── summarizer_nltk.py          # Summarization using NLTK
+├── summarizer_nltk.py          # Summarization using NLTK
 
-                ├── summarizer_transformer.py   # Summarization using Transformers (optional)
+├── summarizer_transformer.py   # Summarization using Transformers (optional)
 
-                ├── requirements.txt            # Required dependencies
+├── requirements.txt            # Required dependencies
 
-                ├── README.md                   # Project documentation
+├── README.md                   # Project documentation
 
-                └── .gitignore                  # Ignored files and folders
+└── .gitignore                  # Ignored files and folders
 
 📸Screenshot
 
